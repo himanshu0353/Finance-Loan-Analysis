@@ -1,4 +1,21 @@
 # Finance-Loan-Analysis
+ Finance Loan Analysis 📊
+
+This project analyzes financial loan data to uncover trends and insights using Excel.
+
+## 📁 File
+- `myproject.xlsx`: Contains the analysis and results.
+
+## 🚀 How to Use
+1. Download the file.
+2. Open in Excel or Google Sheets to view the analysis.
+
+## 🔗 Links
+- [https://docs.google.com/spreadsheets/d/1aZOFd1UdEabOrKYGNpuBa2Ja3f5lcPDz/edit?usp=drive_link&ouid=102742298244414979163&rtpof=true&sd=true](#) ← (optional, if hosted elsewhere)
+
+## 📬 Contact +91 7027039930
+- Created by Himanshu Sharma
+- 
 ##This report aims to provide insights into key loan-related metrics and their changes over time
 Download the Excel File here : [Download from Google Drive](https://docs.google.com/spreadsheets/d/1aZOFd1UdEabOrKYGNpuBa2Ja3f5lcPDz/edit?usp=drive_link&ouid=102742298244414979163&rtpof=true&sd=true)
 
