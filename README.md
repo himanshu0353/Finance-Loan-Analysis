@@ -1,4 +1,5 @@
 # Finance-Loan-Analysis
+##This report aims to provide insights into key loan-related metrics and their changes over time
 Download the Excel File here : [Download from Google Drive](https://docs.google.com/spreadsheets/d/1aZOFd1UdEabOrKYGNpuBa2Ja3f5lcPDz/edit?usp=drive_link&ouid=102742298244414979163&rtpof=true&sd=true)
 
 This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
